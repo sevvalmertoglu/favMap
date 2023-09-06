@@ -1,0 +1,38 @@
+//Onboarding Screen
+"welcome_favMap" = "WELCOME FAVMAP";
+"This application provides you with information about your location." = "This application provides you with information about your location.";
+"Many different options" = "Many different options";
+"You can choose from gas stations, cafes, restaurants, and many more options." = "You can choose from gas stations, cafes, restaurants, and many more options.";
+"Customized view" = "Customized view";
+"It provides a more enhanced view with customized location pins and options." = "It provides a more enhanced view with customized location pins and options.";
+"Next" = "Next";
+"Get Started" = "Get Started";
+
+//Information Screen
+"User mail: " = "User mail: ";
+"Email address not found." = "Email address not found.";
+"Cancel" = "Cancel";
+"It can't be empty space!" = "It can't be empty space!";
+"Please enter your name and surname" = "Please enter your name and surname";
+
+//Sign In and sign up Screen 
+"Please enter your email and password." = "Please enter your email and password.";
+"OK" = "OK";
+
+//Maps Screen
+"location_selected" = "Location Selected";
+"Would you like to start the navigation?" = "Would you like to start the navigation?";
+"Start Navigation" = "Start Navigation";
+"Add to Favorites" = "Add to Favorites";
+"name not found" = "name not found";
+
+//favoriteVC
+"Successful!" = "Successful!";
+"Please enter a note or address" = "Please enter a note or address";
+"Favorite added" = "Favorite added";
+"ERROR" = "ERROR";
+
+"Where are you?" = "Where are you?";
+"You haven't opened the app for 2 days. Did you forget to take a look?" = "You haven't opened the app for 2 days. Did you forget to take a look?";
+
+

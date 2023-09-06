@@ -1,0 +1,141 @@
+
+/* Class = "UITextField"; placeholder = "Name Surname"; ObjectID = "0CN-io-E2E"; */
+"0CN-io-E2E.placeholder" = "İsim Soyisim";
+
+/* Class = "UILabel"; text = "email"; ObjectID = "0al-9x-Bme"; */
+"0al-9x-Bme.text" = "email";
+
+/* Class = "UILabel"; text = "welcome user"; ObjectID = "3e0-Wg-rRs"; */
+"3e0-Wg-rRs.text" = "welcome user";
+
+/* Class = "UIButton"; configuration.title = "Sign Up"; ObjectID = "5Zk-s3-jeN"; */
+"5Zk-s3-jeN.configuration.title" = "Kayıt ol";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "5Zk-s3-jeN"; */
+"5Zk-s3-jeN.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Add your favorite place!"; ObjectID = "6hp-42-8aK"; */
+"6hp-42-8aK.text" = "En sevdiğiniz yeri ekleyin!";
+
+/* Class = "UIButton"; configuration.title = "Don't have an account? Sign Up"; ObjectID = "8Le-ZJ-25t"; */
+"8Le-ZJ-25t.configuration.title" = "Hesabınız yok mu? Üye olun";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "8Le-ZJ-25t"; */
+"8Le-ZJ-25t.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Note you want to add"; ObjectID = "Agh-pW-919"; */
+"Agh-pW-919.text" = "Eklemek istediğiniz not";
+
+/* Class = "UILabel"; text = "Personal Information"; ObjectID = "BeG-Um-BMM"; */
+"BeG-Um-BMM.text" = "Kişisel Bilgiler";
+
+/* Class = "UITabBarItem"; title = "Home "; ObjectID = "CAb-oE-Yob"; */
+"CAb-oE-Yob.title" = "Ana Sayfa";
+
+/* Class = "UIButton"; configuration.title = "Exit"; ObjectID = "CVa-f9-mH7"; */
+"CVa-f9-mH7.configuration.title" = "Çıkış";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "CVa-f9-mH7"; */
+"CVa-f9-mH7.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "FAVMAP"; ObjectID = "Fk6-ZN-PPw"; */
+"Fk6-ZN-PPw.text" = "FAVMAP";
+
+/* Class = "UITextField"; placeholder = "email"; ObjectID = "GHP-Ms-jvs"; */
+"GHP-Ms-jvs.placeholder" = "email";
+
+/* Class = "UIButton"; configuration.title = " Languages"; ObjectID = "IOa-n6-Guj"; */
+"IOa-n6-Guj.configuration.title" = " Diller";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "IOa-n6-Guj"; */
+"IOa-n6-Guj.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Already have an account? Login"; ObjectID = "KMh-nu-iU1"; */
+"KMh-nu-iU1.configuration.title" = "Zaten bir hesabınız var mı? Giriş yapın";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "KMh-nu-iU1"; */
+"KMh-nu-iU1.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Login"; ObjectID = "MUn-CR-dzM"; */
+"MUn-CR-dzM.configuration.title" = "Giriş";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "MUn-CR-dzM"; */
+"MUn-CR-dzM.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "Favorites"; ObjectID = "QLL-dY-yBb"; */
+"QLL-dY-yBb.title" = "Favoriler";
+
+/* Class = "UITabBarItem"; title = "Map"; ObjectID = "WNd-GU-EwB"; */
+"WNd-GU-EwB.title" = "Harita";
+
+/* Class = "UILabel"; text = "name surname"; ObjectID = "Xx8-wo-kFY"; */
+"Xx8-wo-kFY.text" = "isim soyisim";
+
+/* Class = "UILabel"; text = "Home Page"; ObjectID = "Z0I-Pb-8HW"; */
+"Z0I-Pb-8HW.text" = "Ana Sayfa";
+
+/* Class = "UILabel"; text = "location name"; ObjectID = "bw2-hf-BuF"; */
+"bw2-hf-BuF.text" = "lokasyon ismi";
+
+/* Class = "UILabel"; text = "Create Account"; ObjectID = "cvB-iL-BVM"; */
+"cvB-iL-BVM.text" = "Hesap oluştur";
+
+/* Class = "UIButton"; configuration.title = "Next"; ObjectID = "d8o-Vi-sVs"; */
+"d8o-Vi-sVs.configuration.title" = "Sonraki";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "d8o-Vi-sVs"; */
+"d8o-Vi-sVs.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Add to favorites"; ObjectID = "erb-Ht-tAI"; */
+"erb-Ht-tAI.configuration.title" = "Favori ekle";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "erb-Ht-tAI"; */
+"erb-Ht-tAI.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "location"; ObjectID = "f4Z-ny-eYc"; */
+"f4Z-ny-eYc.text" = "konum";
+
+/* Class = "UITextField"; placeholder = "password"; ObjectID = "hjR-sG-kHa"; */
+"hjR-sG-kHa.placeholder" = "şifre";
+
+/* Class = "UIButton"; configuration.title = "Save Changes"; ObjectID = "jap-Qk-Mn6"; */
+"jap-Qk-Mn6.configuration.title" = "Değişiklikleri kaydet";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "jap-Qk-Mn6"; */
+"jap-Qk-Mn6.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "welcome favMap"; ObjectID = "kh4-n0-4gO"; */
+"kh4-n0-4gO.text" = "favMap'e Hoşgeldin";
+
+/* Class = "UIButton"; configuration.title = "Start Navigation"; ObjectID = "mOE-C9-Dg1"; */
+"mOE-C9-Dg1.configuration.title" = "Navigasyonu başlat";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "mOE-C9-Dg1"; */
+"mOE-C9-Dg1.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "email"; ObjectID = "miN-ld-aEB"; */
+"miN-ld-aEB.placeholder" = "email";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "pYz-Rq-s8a"; */
+"pYz-Rq-s8a.title" = "Profil";
+
+/* Class = "UILabel"; text = "Welcome Back !"; ObjectID = "q01-xj-XTe"; */
+"q01-xj-XTe.text" = "Tekrar Hoşgeldin!";
+
+/* Class = "UITextField"; placeholder = "password"; ObjectID = "qbA-5O-n9f"; */
+"qbA-5O-n9f.placeholder" = "şifre";
+
+/* Class = "UILabel"; text = "Location name"; ObjectID = "vSz-8o-A2V"; */
+"vSz-8o-A2V.text" = "Lokasyon ismi";
+
+/* Class = "UIButton"; configuration.title = " Personal Information"; ObjectID = "xVG-mi-LuV"; */
+"xVG-mi-LuV.configuration.title" = " Kişisel Bilgiler";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "xVG-mi-LuV"; */
+"xVG-mi-LuV.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "location note"; ObjectID = "xsl-C5-DnO"; */
+"xsl-C5-DnO.text" = "Konum notu";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "7e5-cE-b1Q"; */
+"7e5-cE-b1Q.normalTitle" = "Navigasyonu Başlat";

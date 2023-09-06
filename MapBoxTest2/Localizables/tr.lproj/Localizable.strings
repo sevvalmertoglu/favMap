@@ -1,0 +1,37 @@
+//Onboarding Screen
+"welcome_favMap" = "FAVMAP'E HOŞGELDİNİZ";
+"This application provides you with information about your location." = "Bu uygulama size konumunuz hakkında bilgi sağlar.";
+"Many different options" = "Birçok farklı seçenek";
+"You can choose from gas stations, cafes, restaurants, and many more options." = "Benzin istasyonları, kafeler, restoranlar ve daha birçok seçenek arasından seçim yapabilirsiniz.";
+"Customized view" = "Özelleştirilmiş görünüm";
+"It provides a more enhanced view with customized location pins and options." = "Özelleştirilmiş konum pinleri ve seçenekleri ile daha gelişmiş bir görünüm sağlar.";
+"Next" = "Sonraki";
+"Get Started" = "Başla";
+
+//Information Screen
+"User mail: " = "Kullanıcı maili: ";
+"Email address not found." = "Email adresi bulunamadı";
+"Cancel" = "İptal";
+"It can't be empty space!" = "Boş alan olamaz!";
+"Please enter your name and surname" = "Lütfen isim ve soyisim giriniz.";
+
+//Sign In and sign up Screen
+"Please enter your email and password." = "Lütfen email ve şifre giriniz.";
+"OK" = "TAMAM";
+
+//Maps Screen
+"location_selected" = "Konum seçildi";
+"Would you like to start the navigation?" = "Navigasyonu başlatmak ister misiniz?";
+"Start Navigation" = "Navigasyonu Başlat";
+"Add to Favorites" = "Favorilere ekle";
+"name not found" = "isim bulunamadı";
+
+//favoriteVC
+"Successful!" = "Başarılı!";
+"Please enter a note or address" = "Lütfen bir not veya adres girin";
+"Favorite added" = "Favorilere eklendi";
+"ERROR" = "HATA";
+
+"Where are you?" = "Nerdesin?";
+"You haven't opened the app for 2 days. Did you forget to take a look?" = "2 gündür uygulamayı açmadınız. Bakmayı mı unuttun?";
+
